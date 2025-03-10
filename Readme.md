@@ -1,0 +1,1 @@
+This animation is similar to the Apple iPhone wallpaper. When we turn off the screen, the animation plays on the iPhone screen. The animation is very similar to my project—when we click the power button, a similar animation runs.
